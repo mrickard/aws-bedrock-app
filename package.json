@@ -14,8 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-bedrock-runtime": "3.798.0",
+    "@aws-sdk/client-bedrock-runtime": "3.828.0",
     "fastify": "^5.4.0",
-    "newrelic": "^12.24.0"
+    "newrelic": "^12.25.0"
   }
 }
